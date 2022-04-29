@@ -1,0 +1,28 @@
+Forest Plateau Open Water Spawns:
+-Noot Fish
+-Red Feather Fish
+-Spinner Fish
+-Arctic Ray
+-Glow Whale
+-Lily Paddler
+
+Forest Plateau Seafloor Spawns:
+-Ruby
+-Argentite Outcrop
+-Diamond
+-Triops
+-Rock Puncher
+
+Open Arctic Open Water Spawns:
+-Arctic Peeper
+-Discus Fish
+-Brinewing
+-Glow Whale
+-Pinnicarid
+-Pengwing/Pengling
+-Squidshark
+
+Ice Castle Cave Spawns:
+-Magnetite
+-Limestone Outcrop
+-Zincite

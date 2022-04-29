@@ -1,0 +1,19 @@
+Asset Edits:
+plateau_rock_large_01_a - Asset uses the mesh of crystal_caverns_rock_large_01_a, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_rock_large_01_a_coral - Asset uses the mesh of crystal_caverns_rock_large_01_a, with a material consisting of treespires_ground_rock_01_c and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_rock_large_01_b - Asset uses the mesh of crystal_caverns_rock_large_01_b, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_rock_large_01_b_coral - Asset uses the mesh of crystal_caverns_rock_large_01_b, with a material consisting of treespires_ground_rock_01_c and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+
+Plateau_surface_jagged_rocks_large_a - Asset uses the mesh of Crystal_Caverns_surface_jagged_rocks_large_a, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+Plateau_surface_jagged_rocks_large_a_coral - Asset uses the mesh of Crystal_Caverns_surface_jagged_rocks_large_a_yellow, with a material consisting of twistybridges_rock_bridge_02, treespires_ground_rock_01_c, and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+Plateau_surface_jagged_rocks_large_b - Asset uses the mesh of Crystal_Caverns_surface_jagged_rocks_large_b, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+Plateau_surface_jagged_rocks_large_b_coral - Asset uses the mesh of Crystal_Caverns_surface_jagged_rocks_large_b_yellow, with a material consisting of twistybridges_rock_bridge_02, treespires_ground_rock_01_c, and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+
+plateau_fissure_edge_01_a_curved_inner - Asset uses the mesh of treespires_fissure_edge_01_a_curved_inner, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_fissure_edge_01_a_straight - Asset uses the mesh of treespires_fissure_edge_01_a_straight, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_fissure_edge_01_b_curved_inner - Asset uses the mesh of treespires_fissure_edge_01_b_curved_inner, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_fissure_edge_01_b_curved_outer - Asset uses the mesh of treespires_fissure_edge_01_b_curved_outer, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_fissure_edge_01_b_straight - Asset uses the mesh of treespires_fissure_edge_01_b_straight, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+plateau_fissure_edge_01_c - Asset uses the mesh of treespires_fissure_edge_01_c, with a material consisting of twistybridges_rock_bridge_02 and a land_dirt_02 "Cap" (and ideally any of the mesh's base overlays and UDMs)
+
+Plateau_ground_base - Asset uses the mesh of Honeycomb_ice_base, with a material consisting of Honeycomb_ice_base_Normal for the normal and twistybridges_rock_bridge_01 for the diffuse

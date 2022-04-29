@@ -1,0 +1,2 @@
+98be86 = Shaded River biome color on Biomemap
+314579 = Open Arctic biome color on Biomemap

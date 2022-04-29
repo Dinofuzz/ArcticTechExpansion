@@ -1,0 +1,3 @@
+These textures are for 3 new voxel terrain materials. 
+The one with both colors has all custom texture edits and is used for the "ForestPlateau_SparseGrass" material and has the same grass distribution and settings as material 90-"ArcticKelp_SparseGrass".
+The ones with only blue and pink colors use kelpforest_ground_moss_01_normal and kelpforest_ground_moss_01_SIG alongside their custom diffuse colors. These are used to create the new "ForestPlateau_DenseGrass_Blue" and "ForestPlateau_DenseGrass_Pink" materials respectively, and have the same amount of grass and settings as the material with both, but with all of the grass being either blue or pink depending on the material instead of the mix.

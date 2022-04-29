@@ -1,0 +1,3 @@
+Vertex colors on Plateau Flower are used for rippling of the mesh (if that doesn't work animations can be tweaked).
+The Plateau Flower's point in the idle animation is the same regardless of when loaded in, instead being based off of time of day + coordinate location of the flower.
+Leaves will have some kind of trail effect to them to be less stiff, and the whole plant will probably need to have physics like the ones for Creepvines that went unused.

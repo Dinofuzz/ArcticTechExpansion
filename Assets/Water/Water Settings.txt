@@ -1,0 +1,29 @@
+WaterBiome Settings:
+absorption = (30.0, 35.0, 15.0)
+scattering = 0.25f
+scatteringColor = (1.000, 0.900, 0.950)
+murkiness = 0.19
+emissive = (0.39, 0.31, 0.75)
+emissiveScale = 0.017
+startDistance = 0
+sunlightScale = 6
+ambientScale = 0.25
+temperature = 17
+
+SkyPrefab Settings:
+_dirty = False
+affectedByDayNightCycle = True
+outdoors = True
+masterIntensity = 1
+prevMasterIntensity = 1
+skyIntensity = 0.17
+specIntensity = 0.65
+diffIntensity = 1
+camExposure = 1
+specIntensityLM = 0.2
+diffIntensityLM = 0.05
+hdrSky = False
+hdrSpec = False
+linearSpace = True
+autoDetectColorSpace = True
+hasDimensions = False
